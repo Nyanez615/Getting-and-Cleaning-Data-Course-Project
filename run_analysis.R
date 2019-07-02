@@ -4,10 +4,6 @@
 # It also creates a tidy data set with the averages of the means and standard
 # deviations grouped by subject and activity.
 
-# Setting the workspace
-
-setwd("~/Dropbox/MOOCs/Coursera/Data Science Specialization/03 - Getting and Cleaning Data/Week 4/Getting-and-Cleaning-Data-Course-Project")
-
 # Loading the packages
 
 library(dplyr)

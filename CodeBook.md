@@ -2,9 +2,9 @@
 
 The run_analysis.R script performs downloads and tidies the data set of human activity recognition using smartphones from the machine learning repository of the University of California Irvine as part of the Getting and Cleaning Data Course Project. It also creates a tidy data set with the averages of the means and standard deviations grouped by subject and activity.
 
-### Workspace, package and URL preparations
+### Package and URL preparations
 
-The lines of code 7-18 set the workspace, load the dplyr package, and assign the .zip and URL paths to file and fileURL for easier access.
+The lines of code 7-18 load the dplyr package and assign the .zip and URL paths to file and fileURL for easier access.
 
 ### Data set checking, download, and unzipping
 
